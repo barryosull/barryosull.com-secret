@@ -1,6 +1,6 @@
 # Secret Hitler - Online Game
 
-Online implementation of the Secret Hitler board game using Python and FastAPI.
+Online version of the Secret Hitler board game using Python and FastAPI.
 
 Rules can be found here: https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf
 
